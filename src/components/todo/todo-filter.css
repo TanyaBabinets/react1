@@ -1,0 +1,15 @@
+.filter-button {
+    width: 90%;
+    height: 30px;
+    background-color: rgb(248, 248, 248);
+    margin-left: 30px;
+}
+
+.filter-button button {
+    width: 80px;
+    height: 30px;
+    margin-right: 10px;
+    background-color: lightblue;
+    border:2px solid dodgerblue;
+    color:dodgerblue;
+}
